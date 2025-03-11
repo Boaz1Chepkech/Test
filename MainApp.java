@@ -1,3 +1,5 @@
+//ct101/g/20555/23
+// import scanner class
 import java.util.Scanner;
 
 // Employee Class
