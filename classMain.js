@@ -1,6 +1,7 @@
 //TUI BOAZ
 //COMPUTER SCIENCE 
 // CT101/G/20555/23
+// KIRINYANGA UNIVERSITY
 // class main
 class Main{
     public static void main(String[] args){
